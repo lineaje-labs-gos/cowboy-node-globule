@@ -1,7 +1,7 @@
 {
   "name": "globule",
   "description": "An easy-to-use wildcard globbing library.",
-  "version": "1.2.1",
+  "version": "1.2.1-lineaje-01",
   "homepage": "https://github.com/cowboy/node-globule",
   "author": {
     "name": "\"Cowboy\" Ben Alman",
@@ -9,12 +9,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/cowboy/node-globule.git"
+    "url": "https://github.com/lineaje-labs-gos/cowboy-node-globule"
   },
   "bugs": {
     "url": "https://github.com/cowboy/node-globule/issues"
   },
   "license": "MIT",
+  "contributors": [
+    {
+      "name": "Lineaje DepFixer",
+      "email": "221268890+Lineaje-DepFixer@users.noreply.github.com"
+    }
+  ],
   "main": "lib/globule",
   "files": [
     "lib"
